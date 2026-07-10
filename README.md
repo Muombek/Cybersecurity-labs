@@ -24,7 +24,8 @@ Commands Used
 
 
 
-Screenshots
+## Screenshots
+![Description of screenshot](images/nmap_success.png) 
 
 
 ## Lessons Learned
