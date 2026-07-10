@@ -25,6 +25,7 @@ nmap -sV -p 8000 10.0.2.4
 nmap -A 10.0.2.3 -oN metasploitable_scan.txt
 
 ## Key Findings
+![Description of text](Nmap/metasploitable_scan.txt)
 
 ## Screenshots
 ![Description of screenshot](images/nmap_success.png)
