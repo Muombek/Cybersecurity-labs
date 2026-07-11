@@ -29,11 +29,12 @@ sudo ufw status verbose
 
 UFW status before configuration
 Firewall enabled
-![description of screenshot](images/ufw_conf.png)
+![Description of screenshot](images/ufw_conf.png)
+
 Nmap scan before firewall
 Nmap scan after firewall
-![description of screenshot](images/ufw_conf2.png)
-![description of screenshot](images/ufw_nmap.png)
+![Description of screenshot](images/ufw_conf2.png)
+![Description of screenshot](images/ufw_nmap.png)
 
 ## Findings
 
